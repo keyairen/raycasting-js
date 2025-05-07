@@ -6,6 +6,9 @@ This project takes inspiration from the techniques used in Wolfenstein 3D to del
 ## Project Status
 This project is a quick proof-of-concept to serve as an introduction to the Raycasting techniques used in Wolfenstein 3D.
 
+## Demo
+https://keyairen.github.io/raycasting-js/
+
 ## Installation
 1. Clone the repository
 
